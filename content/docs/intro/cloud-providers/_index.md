@@ -16,6 +16,7 @@ aliases: ["/docs/reference/clouds/"]
 * [Azure]({{< relref "./azure" >}})
 * [Google Cloud]({{< relref "./gcp" >}})
 * [Kubernetes]({{< relref "./kubernetes" >}})
+* [Linode]({{< relref "./linode" >}})
 * [OpenStack]({{< relref "./openstack" >}})
 
 If your cloud isn't listed, check out the [Pulumi GitHub](https://github.com/pulumi) and
